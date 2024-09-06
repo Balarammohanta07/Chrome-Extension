@@ -21,6 +21,7 @@ The Image Resizer and Compressor is a web-based tool that allows users to resize
 - **Font Awesome:** For upload icons and other visual elements.
 
 ## Github Repo Link
+https://github.com/Balarammohanta07/Chrome-Extension
 
 
 
