@@ -20,11 +20,7 @@ The Image Resizer and Compressor is a web-based tool that allows users to resize
 - **JavaScript:** Image processing and dynamic interactions.
 - **Font Awesome:** For upload icons and other visual elements.
 
-## Installation
+## Github Repo Link
 
-To use this application, you can either clone the repository or download the files directly. Follow these steps:
 
-1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
