@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Image Resizer and Compressor",
+  "version": "1.0",
+  "description": "Resize and compress images directly from your browser.",
+  "permissions": ["activeTab", "storage", "downloads"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "/image/16.png",
+      "48": "/image/48.png",
+      "128": "/image/128.png"
+    }
+  },
+  "icons": {
+    "16": "/image/16.png",
+    "48": "/image/48.png",
+    "128": "/image/128.png"
+  }
+}
